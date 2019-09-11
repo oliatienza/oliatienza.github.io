@@ -1,0 +1,818 @@
+[
+    {
+        "name": "facebookBlue",
+        "value": "0xff1877f2"
+    },
+    {
+        "name": "facebookDarkBlue",
+        "value": "0xff3b5998"
+    },
+    {
+        "name": "twitterBlue",
+        "value": "0xff1da1f2"
+    },
+    {
+        "name": "twitterBlack",
+        "value": "0xff14171a"
+    },
+    {
+        "name": "twitterDarkGray",
+        "value": "0xffaab8c2"
+    },
+    {
+        "name": "twitterGray",
+        "value": "0xffe1e8ed"
+    },
+    {
+        "name": "twitterWhite",
+        "value": "0xfff5f8fa"
+    },
+    {
+        "name": "youTubeRed",
+        "value": "0xffff0000"
+    },
+    {
+        "name": "youTubeBlack",
+        "value": "0xff282828"
+    },
+    {
+        "name": "youTubeWhite",
+        "value": "0xffffffff"
+    },
+    {
+        "name": "instagramMagenta",
+        "value": "0xffc32aa3"
+    },
+    {
+        "name": "instagramBlue",
+        "value": "0xff4c5fd7"
+    },
+    {
+        "name": "instagramPurple",
+        "value": "0xff7232bd"
+    },
+    {
+        "name": "instagramOrange",
+        "value": "0xfff46f30"
+    },
+    {
+        "name": "instagramYellow",
+        "value": "0xffffdc7d"
+    },
+    {
+        "name": "pinterestRed",
+        "value": "0xffbd081c"
+    },
+    {
+        "name": "linkedInBlue",
+        "value": "0xffff0000"
+    },
+    {
+        "name": "linkedInLightBlue",
+        "value": "0xff00a0dc"
+    },
+    {
+        "name": "linkedInBlack",
+        "value": "0xff000000"
+    },
+    {
+        "name": "linkedInWhite",
+        "value": "0xffffffff"
+    },
+    {
+        "name": "googleBlue",
+        "value": "0xff4285f4"
+    },
+    {
+        "name": "googleGreen",
+        "value": "0xff34a853"
+    },
+    {
+        "name": "googleRed",
+        "value": "0xffea4335"
+    },
+    {
+        "name": "googleYellow",
+        "value": "0xfffbbc05"
+    },
+    {
+        "name": "snapchatYellow",
+        "value": "0xfffffc00"
+    },
+    {
+        "name": "snapchatBlack",
+        "value": "0xff000000"
+    },
+    {
+        "name": "snapchatWhite",
+        "value": "0xffffffff"
+    },
+    {
+        "name": "whatsAppGreen",
+        "value": "0xff25d366"
+    },
+    {
+        "name": "whatsAppDarkGreen",
+        "value": "0xff075e54"
+    },
+    {
+        "name": "whatsAppGreenBlue",
+        "value": "0xff128c7e"
+    },
+    {
+        "name": "whatsAppLightGreen",
+        "value": "0xffdcf8c6"
+    },
+    {
+        "name": "whatsAppBlue",
+        "value": "0xff34b7f1"
+    },
+    {
+        "name": "tumblrBlue",
+        "value": "0xff35465d"
+    },
+    {
+        "name": "redditOrange",
+        "value": "0xffff4500"
+    },
+    {
+        "name": "redditRedOrange",
+        "value": "0xffff5700"
+    },
+    {
+        "name": "redditSkyBlue",
+        "value": "0xffcee3f8"
+    },
+    {
+        "name": "redditBlue",
+        "value": "0xff336699"
+    },
+    {
+        "name": "redditLightBlue",
+        "value": "0xff5f99cf"
+    },
+    {
+        "name": "mastodonBlue",
+        "value": "0xff2b90d9"
+    },
+    {
+        "name": "mastodonBlack",
+        "value": "0xff282c37"
+    },
+    {
+        "name": "mastodonGray",
+        "value": "0xff9baec8"
+    },
+    {
+        "name": "mastodonLightGray",
+        "value": "0xffd9e1e8"
+    },
+    {
+        "name": "spotifyGreen",
+        "value": "0xff1ed760"
+    },
+    {
+        "name": "spotifyDarkGreen",
+        "value": "0xff1db954"
+    },
+    {
+        "name": "spotifyWhite",
+        "value": "0xffffffff"
+    },
+    {
+        "name": "spotifyBlack",
+        "value": "0xff191414"
+    },
+    {
+        "name": "appleGray",
+        "value": "0xffa6b1b7"
+    },
+    {
+        "name": "appleDarkGray",
+        "value": "0xff333333"
+    },
+    {
+        "name": "appleLightGray",
+        "value": "0xffbbbbbb"
+    },
+    {
+        "name": "appleBlack",
+        "value": "0xff000000"
+    },
+    {
+        "name": "appleWhite",
+        "value": "0xffffffff"
+    },
+    {
+        "name": "amazonOrange",
+        "value": "0xffff9900"
+    },
+    {
+        "name": "amazonBlue",
+        "value": "0xff146eb4"
+    },
+    {
+        "name": "microsoftRed",
+        "value": "0xfff35022"
+    },
+    {
+        "name": "microsoftGreen",
+        "value": "0xff80bb03"
+    },
+    {
+        "name": "microsoftBlue",
+        "value": "0xff03a5f0"
+    },
+    {
+        "name": "microsoftYellow",
+        "value": "0xffffb903"
+    },
+    {
+        "name": "periscopeBlue",
+        "value": "0xff40a4c4"
+    },
+    {
+        "name": "periscopeRedOrange",
+        "value": "0xffd55548"
+    },
+    {
+        "name": "periscopeLightBlue",
+        "value": "0xff7cd6f1"
+    },
+    {
+        "name": "periscopeDarkBlue",
+        "value": "0xff3f4d51"
+    },
+    {
+        "name": "periscopeGray",
+        "value": "0xffa4b8be"
+    },
+    {
+        "name": "foursquarePink",
+        "value": "0xfff94877"
+    },
+    {
+        "name": "foursquareNavy",
+        "value": "0xff073282"
+    },
+    {
+        "name": "foursquareBlue",
+        "value": "0xff2d5be3"
+    },
+    {
+        "name": "swarmOrangePrimary",
+        "value": "0xffffa633"
+    },
+    {
+        "name": "swarmOrange2",
+        "value": "0xffffa71c"
+    },
+    {
+        "name": "swarmDarkOrange",
+        "value": "0xfff06d1b"
+    },
+    {
+        "name": "swarmBlue",
+        "value": "0xff2182eb"
+    },
+    {
+        "name": "mediumGreen",
+        "value": "0xff02b875"
+    },
+    {
+        "name": "mediumDarkGreen",
+        "value": "0xff00ab6b"
+    },
+    {
+        "name": "mediumLightGreen",
+        "value": "0xffe8f3ec"
+    },
+    {
+        "name": "mediumBlack",
+        "value": "0xff12100e"
+    },
+    {
+        "name": "mediumWhite",
+        "value": "0xffffffff"
+    },
+    {
+        "name": "vimeoBlue",
+        "value": "0xff1ab7ea"
+    },
+    {
+        "name": "vimeoBlack",
+        "value": "0xff162221"
+    },
+    {
+        "name": "vimeoPureBlack",
+        "value": "0xff000000"
+    },
+    {
+        "name": "vimeoWhite",
+        "value": "0xffffffff"
+    },
+    {
+        "name": "skypeBlue",
+        "value": "0xff00aff0"
+    },
+    {
+        "name": "skypeDarkBlue",
+        "value": "0xff0078d7"
+    },
+    {
+        "name": "androidGreen",
+        "value": "0xffa4c639"
+    },
+    {
+        "name": "quoraMaroon",
+        "value": "0xffaa2200"
+    },
+    {
+        "name": "quoraBlue",
+        "value": "0xff2b6dad"
+    },
+    {
+        "name": "quoraWhite",
+        "value": "0xffffffff"
+    },
+    {
+        "name": "dribbblePink",
+        "value": "0xffea4c89"
+    },
+    {
+        "name": "dribbbleDarkPink",
+        "value": "0xffc32361"
+    },
+    {
+        "name": "dribbbleDarkGray",
+        "value": "0xff444444"
+    },
+    {
+        "name": "dribbbleGray",
+        "value": "0xff9ba5a8"
+    },
+    {
+        "name": "slackPurple",
+        "value": "0xff4a154b"
+    },
+    {
+        "name": "slackBlue",
+        "value": "0xff36c5f0"
+    },
+    {
+        "name": "slackGreen",
+        "value": "0xff2eb67d"
+    },
+    {
+        "name": "slackRed",
+        "value": "0xffe01e5a"
+    },
+    {
+        "name": "slackYellow",
+        "value": "0xffecb22e"
+    },
+    {
+        "name": "stumbleUponOrangePrimary",
+        "value": "0xffe94826"
+    },
+    {
+        "name": "stumbleUponOrange2",
+        "value": "0xffeb4924"
+    },
+    {
+        "name": "stumbleUponWhite",
+        "value": "0xffe4e5e7"
+    },
+    {
+        "name": "stumbleUponBlack",
+        "value": "0xff000000"
+    },
+    {
+        "name": "flickrPinkPrimary",
+        "value": "0xfff40083"
+    },
+    {
+        "name": "flickrPink2",
+        "value": "0xffff1981"
+    },
+    {
+        "name": "flickrPink3",
+        "value": "0xffff0084"
+    },
+    {
+        "name": "flickrBluePrimary",
+        "value": "0xff006add"
+    },
+    {
+        "name": "flickrBlue2",
+        "value": "0xff177fff"
+    },
+    {
+        "name": "flickrBlue3",
+        "value": "0xff246dd6"
+    },
+    {
+        "name": "yahooPurplePrimary",
+        "value": "0xff430297"
+    },
+    {
+        "name": "yahooPurple2",
+        "value": "0xff500095"
+    },
+    {
+        "name": "yahooPurple3",
+        "value": "0xff3b009d"
+    },
+    {
+        "name": "yahooPurple4",
+        "value": "0xff38027c"
+    },
+    {
+        "name": "yahooDarkPurple",
+        "value": "0xff2d1152"
+    },
+    {
+        "name": "twitchPurple",
+        "value": "0xff6441a4"
+    },
+    {
+        "name": "twitchLightPurple1",
+        "value": "0xffb9a3e3"
+    },
+    {
+        "name": "twitchLightPurple2",
+        "value": "0xffd7caf5"
+    },
+    {
+        "name": "twitchBlack",
+        "value": "0xff292929"
+    },
+    {
+        "name": "twitchPureBlack",
+        "value": "0xff000000"
+    },
+    {
+        "name": "soundCloudOrangePrimary",
+        "value": "0xffff5500"
+    },
+    {
+        "name": "soundCloudOrange2",
+        "value": "0xffff4B00"
+    },
+    {
+        "name": "soundCloudOrange3",
+        "value": "0xffff3801"
+    },
+    {
+        "name": "soundCloudDarkOrange",
+        "value": "0xffff3300"
+    },
+    {
+        "name": "soundCloudLightOrange",
+        "value": "0xffff7700"
+    },
+    {
+        "name": "deviantArtGreen",
+        "value": "0xff05cc47"
+    },
+    {
+        "name": "deviantArtDarkGreen1",
+        "value": "0xff1f3626"
+    },
+    {
+        "name": "deviantArtDarkGreen2",
+        "value": "0xff42704f"
+    },
+    {
+        "name": "deviantArtLightGreen",
+        "value": "0xff4dc47d"
+    },
+    {
+        "name": "deviantArtLightGreen2",
+        "value": "0xffd4f5de"
+    },
+    {
+        "name": "pocketPinkPrimary",
+        "value": "0xffee4056"
+    },
+    {
+        "name": "pocketPink2",
+        "value": "0xffef3e56"
+    },
+    {
+        "name": "pocketTeal1",
+        "value": "0xff42b7b0"
+    },
+    {
+        "name": "pocketTeal2",
+        "value": "0xff50bcb6"
+    },
+    {
+        "name": "pocketLightTeal",
+        "value": "0xff9bcfcc"
+    },
+    {
+        "name": "pocketLightGreen",
+        "value": "0xff83edb8"
+    },
+    {
+        "name": "pocketOrange",
+        "value": "0xfffcb643"
+    },
+    {
+        "name": "slideShareBlue",
+        "value": "0xff00a0dc"
+    },
+    {
+        "name": "slideShareDarkBlue",
+        "value": "0xffe68523"
+    },
+    {
+        "name": "slideShareOrange",
+        "value": "0xff0077b5"
+    },
+    {
+        "name": "fiveHundredPxBlue",
+        "value": "0xff0099e5"
+    },
+    {
+        "name": "fiveHundredPxBlack",
+        "value": "0xff222222"
+    },
+    {
+        "name": "fiveHundredPxWhite",
+        "value": "0xffffffff"
+    },
+    {
+        "name": "vkBluePrimary",
+        "value": "0xff4a76a8"
+    },
+    {
+        "name": "vkBlue2",
+        "value": "0xff4a76a8"
+    },
+    {
+        "name": "vkDarkBlue",
+        "value": "0xff2a5885"
+    },
+    {
+        "name": "vkDirtyWhite",
+        "value": "0xffedeef0"
+    },
+    {
+        "name": "vkWhite",
+        "value": "0xfff7f8fa"
+    },
+    {
+        "name": "steamBlack",
+        "value": "0xff171A21"
+    },
+    {
+        "name": "steamNavy",
+        "value": "0xff1b2838"
+    },
+    {
+        "name": "steamLightBlue",
+        "value": "0xff66c0f4"
+    },
+    {
+        "name": "steamDarkBlue",
+        "value": "0xff2a475e"
+    },
+    {
+        "name": "steamGray",
+        "value": "0xffc7d5e0"
+    },
+    {
+        "name": "discordBlurple",
+        "value": "0xff7289da"
+    },
+    {
+        "name": "discordWhite",
+        "value": "0xffffffff"
+    },
+    {
+        "name": "discordGray",
+        "value": "0xff99aab5"
+    },
+    {
+        "name": "discordBlack1",
+        "value": "0xff2c2f33"
+    },
+    {
+        "name": "discordBlack2",
+        "value": "0xff23272a"
+    },
+    {
+        "name": "telegramBlue",
+        "value": "0xff0088cc"
+    },
+    {
+        "name": "clarityBlue",
+        "value": "0xff61bed9"
+    },
+    {
+        "name": "listlyOrange",
+        "value": "0xffdf6d46"
+    },
+    {
+        "name": "listlyDarkOrange",
+        "value": "0xffce4f24"
+    },
+    {
+        "name": "listlyBlue",
+        "value": "0xff52b1b3"
+    },
+    {
+        "name": "listlyDarkBlue",
+        "value": "0xff409092"
+    },
+    {
+        "name": "listlyBlack1",
+        "value": "0xff333333"
+    },
+    {
+        "name": "listlyBlack2",
+        "value": "0xff222222"
+    },
+    {
+        "name": "gitHubBlack",
+        "value": "0xff333333"
+    },
+    {
+        "name": "gitHubBlue",
+        "value": "0xff4078c0"
+    },
+    {
+        "name": "gitHubGreen",
+        "value": "0xff6cc644"
+    },
+    {
+        "name": "gitHubRed",
+        "value": "0xffbd2c00"
+    },
+    {
+        "name": "gitHubOrange",
+        "value": "0xffc9510c"
+    },
+    {
+        "name": "gitHubPurple",
+        "value": "0xff6e5494"
+    },
+    {
+        "name": "gitHubWhite",
+        "value": "0xfffafafa"
+    },
+    {
+        "name": "gitHubDirtyWhite",
+        "value": "0xfff5f5f5"
+    },
+    {
+        "name": "viberPurple",
+        "value": "0xff665cac"
+    },
+    {
+        "name": "viberBlue",
+        "value": "0xff54c0d4"
+    },
+    {
+        "name": "viberRed",
+        "value": "0xffef6062"
+    },
+    {
+        "name": "viberYellow",
+        "value": "0xfff4eF7b"
+    },
+    {
+        "name": "viberDarkGray",
+        "value": "0xff4a4a4a"
+    },
+    {
+        "name": "viberGray",
+        "value": "0xffb0b0b0"
+    },
+    {
+        "name": "viberWhite",
+        "value": "0xffffffff"
+    },
+    {
+        "name": "googlePlusRed",
+        "value": "0xffdb4437"
+    },
+    {
+        "name": "vineGreen",
+        "value": "0xff00b489"
+    },
+    {
+        "name": "airbnbRed",
+        "value": "0xfffd5c63"
+    },
+    {
+        "name": "alibabaOrange",
+        "value": "0xffff6a00"
+    },
+    {
+        "name": "angularJsRed",
+        "value": "0xffb52e31"
+    },
+    {
+        "name": "angularJsBlack",
+        "value": "0xff000000"
+    },
+    {
+        "name": "cocaColaRed",
+        "value": "0xffed1c16"
+    },
+    {
+        "name": "cocaColaVividRed",
+        "value": "0xfff40009"
+    },
+    {
+        "name": "swipeRxGreen",
+        "value": "0xff2fbca1"
+    },
+    {
+        "name": "swipeRxDarkGreen",
+        "value": "0xff269781"
+    },
+    {
+        "name": "swipeRxLightGreen",
+        "value": "0xffbbdce8"
+    },
+    {
+        "name": "swipeRxMossGreen",
+        "value": "0xff27a18b"
+    },
+    {
+        "name": "swipeRxYellow",
+        "value": "0xffffcc66"
+    },
+    {
+        "name": "swipeRxBrown",
+        "value": "0xff71592d"
+    },
+    {
+        "name": "mcDonaldsYellow",
+        "value": "0xffffc72c"
+    },
+    {
+        "name": "mcDonaldsRed",
+        "value": "0xffda291c"
+    },
+    {
+        "name": "mcDonaldsBlack",
+        "value": "0xff27251f"
+    },
+    {
+        "name": "burgerKingRed",
+        "value": "0xffda291c"
+    },
+    {
+        "name": "burgerKingBlue",
+        "value": "0xff0033a0"
+    },
+    {
+        "name": "burgerKingYellow",
+        "value": "0xfff2a900"
+    },
+    {
+        "name": "dunkinDonutsOrange",
+        "value": "0xffff671f"
+    },
+    {
+        "name": "dunkinDonutsMagenta",
+        "value": "0xffda1884"
+    },
+    {
+        "name": "dunkinDonutsBrown",
+        "value": "0xff653819"
+    },
+    {
+        "name": "starbucksGreen",
+        "value": "0xff00704a"
+    },
+    {
+        "name": "starbucksBlack",
+        "value": "0xff27251f"
+    },
+    {
+        "name": "subwayGreen",
+        "value": "0xff008c15"
+    },
+    {
+        "name": "subwayMarigold",
+        "value": "0xffffc600"
+    },
+    {
+        "name": "tacoBellDarkPurple",
+        "value": "0xff702082"
+    },
+    {
+        "name": "tacoBellLightPurple",
+        "value": "0xffa77bca"
+    },
+    {
+        "name": "tacoBellBlack",
+        "value": "0xff000000"
+    }
+]
